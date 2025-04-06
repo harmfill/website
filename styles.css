@@ -116,3 +116,8 @@ body {
 .social-links img:hover {
     transform: scale(1.2);
 }
+
+.no-link-style {
+
+    list-style: none;
+}
